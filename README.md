@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+## I am currently in ATMS 523 at the University of Illinos.
+## This is part of a larger initiative to gain a certificate (and possibly continuing to a masters degree) as part of the Weather and Climate Risk and Data Analytics program.
+## I have worked in data and analytics and business intelligence since 2014.
+## Weather and climate have been lifelong interestes of mine, so this program merges that interest with professional experience.
 <!--
 **jaredpk/jaredpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
